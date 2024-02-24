@@ -1,0 +1,19 @@
+.bigdiv{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.meddiv{
+display: flex;
+flex-grow: 1;
+}
+
+.smoldiv{
+    border: 2px solid black;
+    padding: 20px;
+    flex-grow: 1;
+  
+}
